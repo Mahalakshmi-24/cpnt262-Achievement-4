@@ -6,8 +6,16 @@
 
   *  cpnt262-activity4
 
+## code journal
 
+  * i already know some javascript concepts.
 
+  * i choose this from tony's instruction.
+
+  * changed the background image using style
+      'style.backgroundImage'
+   
+   * and i just print the users selection fo season.
 
 ## Attrbutions
 
