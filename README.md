@@ -20,7 +20,7 @@
 ## Attrbutions
 
   *  Photo by [Matteo Milan](https://images.pexels.com/photos/10255234/pexels-photo-10255234.jpeg?auto=compress&
-     cs=tinysrgb&dpr=2&h=650&w=940)from Pexels.
+     cs=tinysrgb&dpr=2&h=650&w=940)style.backgroundImage
 
   *  Photo by [Co Sch](https://images.pexels.com/photos/395377/pexels-photo-395377.jpeg?auto=compress& 
      cs=tinysrgb&dpr=2&h=650&w=940) from Pexels.
