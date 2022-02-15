@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Seasons</title>
+
+
+  <script src="js/main.js" defer></script>
+  <link rel="stylesheet" href="css/style.css">
+
+
+  <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:ital,wght@1,300&display=swap" rel="stylesheet">
+</head>
+
+<body class="container">
+  <h1>Select the season the background image will change</h1>
+  <form id="form">
+    <fieldset>
+      <legend>season</legend>
+      <div class="drpdown">
+      <label for="seasons">Options</label>
+      <select name="season" id="season">
+        <option value="select" selected="">Select the season</option>
+        <option value="summer">Summer</option>
+        <option value="spring">Spring</option>
+        <option value="fall">Fall</option>
+        <option value="winter">Winter</option>
+      </select>
+      </div>
+      <button type="submit" class="btn">Submit</button>
+      <h3><output id="output"></output></h3>
+    </fieldset>
+  </form>
+
+  <h2 class="response">No seasons selected</h2>
+
+</div>
+</body>
+</html>

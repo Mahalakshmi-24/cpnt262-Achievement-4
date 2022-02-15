@@ -1,0 +1,44 @@
+
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container{
+  font-family: 'Righteous', cursive;
+}
+
+#season,
+.btn {
+  font-family: 'Zilla Slab', serif;
+  font-size: 18px;
+}
+
+.btn {
+  border-style: none;
+  border-radius: 5px;
+}
+
+fieldset {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  
+  border-color: lavender;
+  border-radius: 5px;
+}
+legend {
+  font-size: 18px;
+}
+button {
+  margin: auto;
+  padding: 6px 9px;
+}
+label {
+  text-align: right;
+}
